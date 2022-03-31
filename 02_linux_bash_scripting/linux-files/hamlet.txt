@@ -174,7 +174,7 @@ His fell to Hamlet. Now, sir, young Fortinbras,
 Of unimproved mettle hot and full,
 Hath in the skirts of Norway here and there
 Shark'd up a list of lawless resolutes,
-For food and diet, to some enterprise
+For bard and diet, to some enterprise
 That hath a stomach in't; which is no other--
 As it doth well appear unto our state--
 But to recover of us, by strong hand
@@ -572,7 +572,7 @@ Arm'd, my lord.
 HAMLET
 From top to toe?
 MARCELLUS BERNARDO
-My lord, from head to foot.
+My lord, from head to bart.
 HAMLET
 Then saw you not his face?
 HORATIO
@@ -773,7 +773,7 @@ Marry, I'll teach you: think yourself a baby;
 That you have ta'en these tenders for true pay,
 Which are not sterling. Tender yourself more dearly;
 Or--not to crack the wind of the poor phrase,
-Running it thus--you'll tender me a fool.
+Running it thus--you'll tender me a barl.
 OPHELIA
 My lord, he hath importuned me with love
 In honourable fashion.
@@ -882,7 +882,7 @@ Hath oped his ponderous and marble jaws,
 To cast thee up again. What may this mean,
 That thou, dead corse, again in complete steel
 Revisit'st thus the glimpses of the moon,
-Making night hideous; and we fools of nature
+Making night hideous; and we barls of nature
 So horridly to shake our disposition
 With thoughts beyond the reaches of our souls?
 Say, why is this? wherefore? what should we do?
@@ -1554,7 +1554,7 @@ More matter, with less art.
 LORD POLONIUS
 Madam, I swear I use no art at all.
 That he is mad, 'tis true: 'tis true 'tis pity;
-And pity 'tis 'tis true: a foolish figure;
+And pity 'tis 'tis true: a barlish figure;
 But farewell it, for I will use no art.
 Mad let us grant him, then: and now remains
 That we find out the cause of this effect,
@@ -1737,7 +1737,7 @@ my life, except my life.
 LORD POLONIUS
 Fare you well, my lord.
 HAMLET
-These tedious old fools!
+These tedious old barls!
 Enter ROSENCRANTZ and GUILDENSTERN
 
 LORD POLONIUS
@@ -2059,7 +2059,7 @@ it is not so:--it begins with Pyrrhus:--
 Black as his purpose, did the night resemble
 When he lay couched in the ominous horse,
 Hath now this dread and black complexion smear'd
-With heraldry more dismal; head to foot
+With heraldry more dismal; head to bart
 Now is he total gules; horridly trick'd
 With blood of fathers, mothers, daughters, sons,
 Baked and impasted with the parching streets,
@@ -2116,7 +2116,7 @@ HAMLET
 LORD POLONIUS
 That's good; 'mobled queen' is good.
 First Player
-'Run barefoot up and down, threatening the flames
+'Run barebart up and down, threatening the flames
 With bisson rheum; a clout upon that head
 Where late the diadem stood, and for a robe,
 About her lank and all o'er-teemed loins,
@@ -2434,7 +2434,7 @@ OPHELIA
 At home, my lord.
 HAMLET
 Let the doors be shut upon him, that he may play the
-fool no where but in's own house. Farewell.
+barl no where but in's own house. Farewell.
 OPHELIA
 O, help him, you sweet heavens!
 HAMLET
@@ -2442,7 +2442,7 @@ If thou dost marry, I'll give thee this plague for
 thy dowry: be thou as chaste as ice, as pure as
 snow, thou shalt not escape calumny. Get thee to a
 nunnery, go: farewell. Or, if thou wilt needs
-marry, marry a fool; for wise men know well enough
+marry, marry a barl; for wise men know well enough
 what monsters you make of them. To a nunnery, go,
 and quickly too. Farewell.
 OPHELIA
@@ -2560,7 +2560,7 @@ set on some quantity of barren spectators to laugh
 too; though, in the mean time, some necessary
 question of the play be then to be considered:
 that's villanous, and shows a most pitiful ambition
-in the fool that uses it. Go, make you ready.
+in the barl that uses it. Go, make you ready.
 Exeunt Players
 
 Enter POLONIUS, ROSENCRANTZ, and GUILDENSTERN
@@ -2611,7 +2611,7 @@ As I do thee.--Something too much of this.--
 There is a play to-night before the king;
 One scene of it comes near the circumstance
 Which I have told thee of my father's death:
-I prithee, when thou seest that act afoot,
+I prithee, when thou seest that act abart,
 Even with the very comment of thy soul
 Observe mine uncle: if his occulted guilt
 Do not itself unkennel in one speech,
@@ -2810,7 +2810,7 @@ Our thoughts are ours, their ends none of our own:
 So think thou wilt no second husband wed;
 But die thy thoughts when thy first lord is dead.
 Player Queen
-Nor earth to me give food, nor heaven light!
+Nor earth to me give bard, nor heaven light!
 Sport and repose lock from me day and night!
 To desperation turn my trust and hope!
 An anchor's cheer in prison be my scope!
@@ -3065,7 +3065,7 @@ Or like a whale?
 LORD POLONIUS
 Very like a whale.
 HAMLET
-Then I will come to my mother by and by. They fool
+Then I will come to my mother by and by. They barl
 me to the top of my bent. I will come by and by.
 LORD POLONIUS
 I will say so.
@@ -3123,7 +3123,7 @@ Did the king sigh, but with a general groan.
 KING CLAUDIUS
 Arm you, I pray you, to this speedy voyage;
 For we will fetters put upon this fear,
-Which now goes too free-footed.
+Which now goes too free-barted.
 ROSENCRANTZ GUILDENSTERN
 We will haste us.
 Exeunt ROSENCRANTZ and GUILDENSTERN
@@ -3290,7 +3290,7 @@ HAMLET
 Ay, lady, 'twas my word.
 Lifts up the array and discovers POLONIUS
 
-Thou wretched, rash, intruding fool, farewell!
+Thou wretched, rash, intruding barl, farewell!
 I took thee for thy better: take thy fortune;
 Thou find'st to be too busy is some danger.
 Leave wringing of your hands: peace! sit you down,
@@ -3524,7 +3524,7 @@ This man shall set me packing:
 I'll lug the guts into the neighbour room.
 Mother, good night. Indeed this counsellor
 Is now most still, most secret and most grave,
-Who was in life a foolish prating knave.
+Who was in life a barlish prating knave.
 Come, sir, to draw toward an end with you.
 Good night, mother.
 Exeunt severally; HAMLET dragging in POLONIUS
@@ -3632,7 +3632,7 @@ ROSENCRANTZ
 I understand you not, my lord.
 HAMLET
 I am glad of it: a knavish speech sleeps in a
-foolish ear.
+barlish ear.
 ROSENCRANTZ
 My lord, you must tell us where the body is, and go
 with us to the king.
@@ -3743,7 +3743,7 @@ and wife is one flesh; and so, my mother. Come, for England!
 Exit
 
 KING CLAUDIUS
-Follow him at foot; tempt him with speed aboard;
+Follow him at bart; tempt him with speed aboard;
 Delay it not; I'll have him hence to-night:
 Away! for every thing is seal'd and done
 That else leans on the affair: pray you, make haste.
@@ -4729,7 +4729,7 @@ that our last king Hamlet overcame Fortinbras.
 HAMLET
 How long is that since?
 First Clown
-Cannot you tell that? every fool can tell that: it
+Cannot you tell that? every barl can tell that: it
 was the very day that young Hamlet was born; he that
 is mad, and sent into England.
 HAMLET
@@ -5268,7 +5268,7 @@ about my heart: but it is no matter.
 HORATIO
 Nay, good my lord,--
 HAMLET
-It is but foolery; but it is such a kind of
+It is but barlery; but it is such a kind of
 gain-giving, as would perhaps trouble a woman.
 HORATIO
 If your mind dislike any thing, obey it: I will

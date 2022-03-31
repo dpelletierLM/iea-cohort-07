@@ -1,0 +1,20 @@
+#!/bin/bash
+set -e #Exits script immediately if it encounters an error
+
+if [ $# = 0 ]; then #Typing a [ ] with parameters is the same as using the test command, $# is a bash built in to count number of arguments.  So this statement says if the number of arguments equals zero then do this. Else do this.
+
+echo "Please add a filename to look for.  For example ./filenametest fileToLookFor" 
+exit 1 #This will exit bash and use an exit status of 1 instead of 0 meaning it wasn't successful.
+
+else
+
+for arg in "$@"; do #$@ Will use all arguments as entered meaning if something is in quotes it will stay in quotes.
+
+if [ -f $arg ]; then
+
+echo 'inspected by DonP' >> $arg
+else
+echo $arg file does not exist
+exit 1
+
+fi
