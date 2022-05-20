@@ -2,7 +2,7 @@ import os
 
 def get_databas_host():
     host = os.getenv("DATABASE_HOST")
-    if host is None or host == '':
+    if not host: # Returns false if host is None or ''
         return None
     return "mysql://" = host
 
